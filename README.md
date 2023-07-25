@@ -3,7 +3,7 @@
 </h1>
 
 ## About
-Full Stack Developer & Database Architect
+Full Stack Developer & Database Engineer
 
 ## Skills
 - HTML
