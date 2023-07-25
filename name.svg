@@ -50,7 +50,7 @@ h1 {
 				}
     .vintage {
       font-family: Kuunari Black, sans-serif;
-      color: white;
+      color: black;
       -webkit-text-stroke: 0.5px black;
       text-transform: uppercase;
       -moz-transform: scale(1,0.7);
